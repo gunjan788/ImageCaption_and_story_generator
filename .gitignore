@@ -1,0 +1,9 @@
+.streamlit/
+venv/
+__pycache__/
+*.pyc
+.env
+*.DS_Store
+__MACOSX/
+**/*.keras
+uploaded_image.jpg
